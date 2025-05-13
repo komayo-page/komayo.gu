@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://gu.komayo.page/</loc>
     <lastmod>2023-06-26</lastmod>
+    <image:image>
+      <image:loc>https://gu.komayo.page/img/varanasi-ganges-woman-blue-kimono-moonlit-street-ink-sketch,w_1024.webp</image:loc>
+      <image:title>વારાણસીની ગંગા કિનારે ચાંદની રાતે નીલા કિમોનો પહેરેલી સ્ત્રીની શાહીથી દોરેલી આકૃતિ</image:title>
+      <image:caption>વારાણસીની ગંગા કિનારે ચાંદની રાતે નીલા કિમોનો પહેરેલી સ્ત્રીની શાહીથી દોરેલી આકૃતિ</image:caption>
+    </image:image>
   </url>
 </urlset>
